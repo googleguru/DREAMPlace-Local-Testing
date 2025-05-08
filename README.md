@@ -110,14 +110,16 @@ After execution, the following images are generated and stored in the `results/a
 These 8 images represent placement evolution over time:
 
 <p float="left">
-  <img src="images/placement_0000.png" width="200"/>
-  <img src="images/placement_0001.png" width="200"/>
-  <img src="images/placement_0002.png" width="200"/>
-  <img src="images/placement_0003.png" width="200"/>
-  <img src="images/placement_0004.png" width="200"/>
-  <img src="images/placement_0005.png" width="200"/>
-  <img src="images/placement_0006.png" width="200"/>
-  <img src="images/placement_0007.png" width="200"/>
+  <img src="images/iter0000.png" width="200"/>
+  <img src="images/iter0100.png" width="200"/>
+  <img src="images/iter0200.png" width="200"/>
+  <img src="images/iter0300.png" width="200"/>
+  <img src="images/iter0400.png" width="200"/>
+  <img src="images/iter0500.png" width="200"/>
+  <img src="images/iter0600.png" width="200"/>
+  <img src="images/iter0602.png" width="200"/>
+  <img src="images/iter0603.png" width="200"/>
+  <img src="images/iter0604.png" width="200"/>
 </p>
 
 You can also convert them into a GIF using:
